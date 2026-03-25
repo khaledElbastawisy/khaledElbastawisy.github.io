@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="KE monogram">
+  <defs>
+    <linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#173b34" />
+      <stop offset="100%" stop-color="#d46c31" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="url(#g)" />
+  <path
+    d="M19 16h8v13.4L39.4 16H49L34.7 32.2 50 48h-10L27 34.1V48h-8V16Zm22 4h-9v8h8v4h-8v8h9v4H28V16h13v4Z"
+    fill="#fff8f1"
+  />
+</svg>
